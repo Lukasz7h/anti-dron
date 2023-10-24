@@ -38,9 +38,9 @@ export const data = {
     },
 
     mechanical_properties: {
-      length: 40.5,
-      width: 53,
-      weight: 0.2,
+      length: [40.5, 15.95],
+      width: [53, 20.86],
+      weight: [0.2, 0.44],
       color: 'white or green',
       material: 'Plastic',
     },
@@ -68,10 +68,10 @@ export const data = {
     },
 
     mechanical_properties: {
-      length: 84,
-      width: 84,
-      height: 115,
-      weight: 17,
+      length: [84, 33],
+      width: [84, 33],
+      height: [115, 45.27],
+      weight: [17, 37.5],
       color: 'white or green',
       material: 'Plastic',
     },
@@ -98,9 +98,9 @@ export const data = {
     },
 
     mechanical_properties: {
-      length: 63.2,
-      width: [41.5, 34.7],
-      weight: 0.2,
+      length: [63.2, 24.88],
+      width: [41.5, 16.33, 34.7, 13.66],
+      weight: [0.2, 0.44],
       color: 'white or green',
       material: 'Plastic',
     },
@@ -128,9 +128,9 @@ export const data = {
     },
 
     mechanical_properties: {
-      length: 72,
-      width: 29,
-      weight: 3.75,
+      length: [72, 28.34],
+      width: [29, 11.4],
+      weight: [3.75, 8.25],
       color: 'white or green',
       material: 'Plastic',
     },
